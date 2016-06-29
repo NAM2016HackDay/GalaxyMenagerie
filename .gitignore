@@ -1,0 +1,8 @@
+test/
+out/galaxies.txt
+out/pretty_galaxies.txt
+*.swp
+*.jpg
+.DS_Store
+
+
